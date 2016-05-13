@@ -1406,7 +1406,7 @@
   cursor: pointer;
 }
 .swagger-section #header {
-/*background: rgba(0, 0, 0, 0) linear-gradient(to bottom, #f78f40 0%, #f89b51 25%, #f89b51 100%) repeat scroll 0 0;; */
+ background: #F5F5F5;
   padding: 9px 14px 19px 14px;
   height: 23px;
   min-width: 775px;
